@@ -220,4 +220,7 @@ This repository documents the development of the project as it grows.
 
 Thanks for checking out **FNAF Mad Mix**!
 
+## QUICK NOTE
+You can change ai levels and all from the code only (well i think ya'll knew but still its my job to tell :D)
+
 **— The Orange Guy 🟠**
