@@ -9,6 +9,9 @@ Welcome to **FNAF Mad Mix**, an unofficial FNAF fan game built with Python and P
 Enter the office, monitor security cameras, keep track of the animatronics, and survive the night. Stay alert, because you never know what might be waiting in the next room...
 
 > 🚧 **Development Status: ALPHA**
+## QUICK NOTE
+You can change ai levels and all from the code only (well i think ya'll knew but still its my job to tell :D)
+Also plz inform me on the bugs coz i know there are alot
 >
 > This project is a work in progress. Features, mechanics, and content may change as development continues.
 
@@ -220,7 +223,5 @@ This repository documents the development of the project as it grows.
 
 Thanks for checking out **FNAF Mad Mix**!
 
-## QUICK NOTE
-You can change ai levels and all from the code only (well i think ya'll knew but still its my job to tell :D)
 
 **— The Orange Guy 🟠**
